@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ixPpURdgKSPt+Ohw3Wt5Icbdt1DnseRUuDCGxpkLmJM=",
+  "Source": "WindowsAuthApi",
+  "BasePath": "_content/WindowsAuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
