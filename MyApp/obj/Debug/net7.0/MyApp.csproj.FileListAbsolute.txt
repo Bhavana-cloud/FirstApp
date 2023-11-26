@@ -1,0 +1,11 @@
+C:\Lab\DotNetApps\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.deps.json
+C:\Lab\DotNetApps\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.dll
+C:\Lab\DotNetApps\DotNetApp\MyApp\bin\Debug\net7.0\MyApp.pdb
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.dll
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\MyApp.pdb
+C:\Lab\DotNetApps\DotNetApp\MyApp\obj\Debug\net7.0\ref\MyApp.dll
