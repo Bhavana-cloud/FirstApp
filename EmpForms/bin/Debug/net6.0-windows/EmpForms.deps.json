@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmpForms/1.0.0": {
+        "dependencies": {
+          "EmpLib": "1.0.0"
+        },
+        "runtime": {
+          "EmpForms.dll": {}
+        }
+      },
+      "EmpLib/1.0.0": {
+        "runtime": {
+          "EmpLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
