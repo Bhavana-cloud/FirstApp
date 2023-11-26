@@ -1,0 +1,14 @@
+C:\Lab\DotNetApps\DotNetApp\TestDal\bin\Debug\net6.0\TestDal.deps.json
+C:\Lab\DotNetApps\DotNetApp\TestDal\bin\Debug\net6.0\TestDal.runtimeconfig.json
+C:\Lab\DotNetApps\DotNetApp\TestDal\bin\Debug\net6.0\TestDal.dll
+C:\Lab\DotNetApps\DotNetApp\TestDal\bin\Debug\net6.0\TestDal.pdb
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.csproj.AssemblyReference.cache
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.AssemblyInfoInputs.cache
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.AssemblyInfo.cs
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.csproj.CoreCompileInputs.cache
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.dll
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\refint\TestDal.dll
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.pdb
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\TestDal.genruntimeconfig.cache
+C:\Lab\DotNetApps\DotNetApp\TestDal\obj\Debug\net6.0\ref\TestDal.dll
